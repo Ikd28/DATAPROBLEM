@@ -21,3 +21,10 @@ i) Data Misuse
 ii) Time wasting 
 and lastly 
 iii) Help improve clearer visualization.
+
+
+
+
+PART 2 OF THIS PROJECT 
+The question 1 is titled as SQL_PROJECT and can be run using Microsoft SQL
+I have attached a word documents that has the answers to questions 2-4 of the part 2.

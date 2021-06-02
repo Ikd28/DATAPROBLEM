@@ -10,7 +10,7 @@ With just the ones provided, it is a lot to visualize.
 The 3 additional pieces of information I will include to prevent any collisions
 but clearer visualiztion and can contribute to anxiety disorder is:
 1. Age of patients  
-2.Gender of patients
+2. Gender of patients
 3. Location of patients 
 
 In all the proper way to visualize the data provided is to divide it into chunks like I did in my

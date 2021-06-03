@@ -1,5 +1,5 @@
-# DATAPROBLEM PART 1
-The codes I wrote for this question can run on any IDE but should have the same name as my CSV file.
+# DATAPROBLEM PART 1 & 2
+The code I wrote for the part one question can run on any IDE but should have the same name as my CSV file.
 
 From the Data given in the CSV file, the inference that I came up with was that,
 there were a lot of data given and at some point in graph visualization 
@@ -20,6 +20,7 @@ but clearer visualiztion and can contribute to anxiety disorder is:
 In all the proper way to visualize the data provided is to divide it into chunks like I did in my
 visualization. I pulled out 100 random patients and I plotted a graph for each patient to visualize their progress.
 Now, I did this because, each patient is unique from the other and due to this they must have seperate graphs to visualize their progress.
+I have added a screenshot of this visualization 
 
 
 Since this will be on a larger scale in the Medical field, this approach is likely to prevent:
